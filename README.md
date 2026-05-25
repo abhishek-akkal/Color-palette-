@@ -25,3 +25,5 @@ This project showcases aesthetic images with matching color palettes, smooth hov
 Made with ❤️ by Abhishek
 
 YOLO badge test
+
+Pair badge test
