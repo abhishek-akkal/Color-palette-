@@ -6,6 +6,8 @@ This project showcases aesthetic images with matching color palettes, smooth hov
 
 ## 📸 Preview
 
+[Watch Color Palette Demo](https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_html-css-javascript-activity-7460737156404219904-Cqxf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk)
+
 ## ✨ Features
 
 - Extracted color palettes from images
