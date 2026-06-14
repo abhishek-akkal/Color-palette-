@@ -26,4 +26,4 @@ This project showcases aesthetic images with matching color palettes, smooth hov
 
 ## 👨‍💻 Author
 
-Made with Abhishek
+Made witAbhishek
